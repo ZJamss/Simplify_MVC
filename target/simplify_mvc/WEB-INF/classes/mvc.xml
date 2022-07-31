@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+<!--    扫描注解类所在包-->
+    <components-scan base-package="com.business.controller,com.business.service"/>
+</beans>
