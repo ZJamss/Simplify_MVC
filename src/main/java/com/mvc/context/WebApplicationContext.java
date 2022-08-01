@@ -25,7 +25,7 @@ public class WebApplicationContext {
 
     public Map<String, Object> ioc = new HashMap<>();
 
-    //ios容器
+    //ioc容器
     public WebApplicationContext(String contextConfigLocation) {
         this.contextConfigLocation = contextConfigLocation;
     }
